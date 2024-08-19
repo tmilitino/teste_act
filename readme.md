@@ -24,7 +24,6 @@ Todas as bases utilizadas estão disponiveis no diretorio `inputs_data`, caso qu
 - Para as Partes 1 e 2 foi usado a base sugerida nas suas expectivas questões.
 
 - Para as Partes 3 e 4 foram gerados 2 massas de dados para resolução desse teste
-  - [action_logs](https://www.mockaroo.com/e58bafd0)
   - [car_makers](https://www.mockaroo.com/ce885200)
   - [owners](https://www.mockaroo.com/246752f0)
 
@@ -82,7 +81,7 @@ Filtre as linhas onde a "Age" é maior que 30.
   - Menor que 30: "Jovem"
   - Entre 30 e 40: "Adulto"
   - Maior que 40: "Senior"
-  
+
 Aplique essa função ao DataFrame usando uma UDF.
 - [Código](./part_2/exec_1.py)
 
