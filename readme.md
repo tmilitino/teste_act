@@ -3,11 +3,19 @@
 ## Pré-requisitos
 
 - Crie um ambiente virtual
-  - `python3 -m venv venv`
+```
+python3 -m venv venv
+```
+
 - Ative o ambiente virtual
-  - `source venv/bin/activate`
+```
+source venv/bin/activate
+```
+
 - Instale as bibliotecas do arquivo `requirements.txt`
-  - `pip install -r ./requirements.txt`
+```
+pip install -r ./requirements.txt
+```
 
 ## Massa de dados
 
@@ -22,6 +30,12 @@ Todas as bases utilizadas estão disponiveis no diretorio `inputs_data`, caso qu
 
 - Para a Parte 5 foi gerado uma base seguindo as expecificações da questão
   - [action_logs](https://www.mockaroo.com/e58bafd0)
+
+## Execução
+Para executar este exercicio rode o comanando no diretorio raiz do projeto
+```
+python3 main.py
+```
 
 ## Questionario
 
