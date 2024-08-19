@@ -56,9 +56,9 @@ Filtre as linhas onde a "Age" é maior que 30.
 
 #### Ordenação
 
-Ordene o DataFrame resultante da questão anterior pela média de "Age" em ordem decrescente.
+- Ordene o DataFrame resultante da questão anterior pela média de "Age" em ordem decrescente.
 
-- [Código](./part_1/exec_3.py)
+  - [Código](./part_1/exec_3.py)
 
 ### Parte 2: Funções Avançadas
 
