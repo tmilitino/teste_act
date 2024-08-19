@@ -79,11 +79,12 @@ Filtre as linhas onde a "Age" é maior que 30.
 #### Uso de UDFs (User Defined Functions)
 
 - Crie uma função em Python que converte idades para categorias:
-Menor que 30: "Jovem"
-Entre 30 e 40: "Adulto"
-Maior que 40: "Senior"
+  - Menor que 30: "Jovem"
+  - Entre 30 e 40: "Adulto"
+  - Maior que 40: "Senior"
+  
 Aplique essa função ao DataFrame usando uma UDF.
-  - [Código](./part_2/exec_1.py)
+- [Código](./part_2/exec_1.py)
 
 #### Funções de Janela
 
