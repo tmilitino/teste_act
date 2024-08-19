@@ -30,6 +30,8 @@ Todas as bases utilizadas estão disponiveis no diretorio `inputs_data`, caso qu
 #### Criação de DataFrame
 
 - Crie um DataFrame a partir do seguinte conjunto de dados:
+
+```
 data = [
     ("Alice", 34, "Data Scientist"),
     ("Bob", 45, "Data Engineer"),
@@ -37,7 +39,9 @@ data = [
     ("David", 35, "Data Scientist")
 ]
 columns = ["Name", "Age", "Occupation"]
-  - [Código](./exec_base.py)
+```
+
+- [Código](./exec_base.py)
 
 #### Filtragem e Seleção
 
