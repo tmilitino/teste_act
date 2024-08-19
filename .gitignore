@@ -1,0 +1,4 @@
+venv
+outputs_data/part_*
+*.pyc
+.log
